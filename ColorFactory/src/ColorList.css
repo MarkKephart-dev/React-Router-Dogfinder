@@ -1,0 +1,20 @@
+.ColorList {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Black background for the header */
+.ColorList-header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+/* Styles for the links */
+.ColorList a {
+    display: block; /* Makes each link appear on a new line */
+    color: white; /* White text for better contrast */
+    text-decoration: underline; /* Underlined links */
+    font-size: 18px;
+    margin: 10px 0; /* Adds spacing between links */
+}
